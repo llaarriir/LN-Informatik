@@ -1,6 +1,7 @@
 # LN-Informatik
 # Titel: 
-# Namen:
+# Team:
+Larissa Röthlisberger, 
 # E-Mails: 
 roethlar@students.zhaw.ch, 
 # Beschreibung:
