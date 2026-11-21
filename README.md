@@ -4,6 +4,6 @@
 - Larissa Röthlisberger (roethlar@students.zhaw.ch)
 - Jennica 
 - Yasmin 
-- Vinny 
+- Vinny Morkkalil (morkkvin@students.zhaw.ch)
 # Beschreibung:
 # weitere Infos zum Projekt:
