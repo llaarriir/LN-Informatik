@@ -4,7 +4,7 @@ Besteht ein Zusammenhang zwischen dem wirtschaftlichen Wohlstand eines Landes un
 # Team:
 - Larissa Röthlisberger (roethlar@students.zhaw.ch)
 - Jennica 
-- Yasmin (kelleya1@students.zhaw.ch)
+- Yasmin Keller (kelleya1@students.zhaw.ch)
 - Vinny Morkkalil (morkkvin@students.zhaw.ch)
 # Beschreibung:
 *Hintergrund und Relevanz*
