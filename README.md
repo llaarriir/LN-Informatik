@@ -3,7 +3,7 @@
 Besteht ein Zusammenhang zwischen dem wirtschaftlichen Wohlstand eines Landes und und dem CO₂- Ausstoss pro Kopf?
 # Team:
 - Larissa Röthlisberger (roethlar@students.zhaw.ch)
-- Jennica 
+- Jennica Frances Cortez (cortejen@students.zhaw.ch)
 - Yasmin Keller (kelleya1@students.zhaw.ch)
 - Vinny Morkkalil (morkkvin@students.zhaw.ch)
 # Beschreibung:
