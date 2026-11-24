@@ -1,6 +1,6 @@
 # LN-Informatik
 # Titel: 
-*Besteht ein Zusammenhang zwischen dem wirtschaftlichen Wohlstand eines Landes und und dem CO₂- Ausstoss pro Kopf?*
+Besteht ein Zusammenhang zwischen dem wirtschaftlichen Wohlstand eines Landes und und dem CO₂- Ausstoss pro Kopf?
 # Team:
 - Larissa Röthlisberger (roethlar@students.zhaw.ch)
 - Jennica Frances Cortez (cortejen@students.zhaw.ch)
