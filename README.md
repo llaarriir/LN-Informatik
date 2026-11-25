@@ -5,7 +5,7 @@ Besteht ein Zusammenhang zwischen dem wirtschaftlichen Wohlstand eines Landes un
 ## Team:
 
 Am Projekt arbeiten
-- Larissa Röthlisberger (roethlar@students.zhaw.ch)
+- Larissa Röthlisberg (roethlar@students.zhaw.ch)
 - Jennica Frances Cortez (cortejen@students.zhaw.ch)
 - Yasmin Keller (kelleya1@students.zhaw.ch)
 - Vinny Morkkalil (morkkvin@students.zhaw.ch)
