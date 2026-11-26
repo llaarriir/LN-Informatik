@@ -1,0 +1,2 @@
+import pandas as pandas
+df_ch = pd.read_csv("co2-vsgdp")
