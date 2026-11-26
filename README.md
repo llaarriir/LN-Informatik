@@ -29,3 +29,5 @@ Vergleichsebene: Länder, für ein bestimmtes Jahr (Querschnitt) oder über mehr
 
 Je höher das BIP pro Kopf, desto höher ist im Durchschnitt der CO₂-Ausstoss pro Kopf. Einzelne Länder weichen davon ab, etwa durch einen hohen Anteil erneuerbarer oder nuklearer Energie, eine dienstleistungsorientierte Wirtschaft oder eine erdölbasierte Wirtschaft mit wenig Einwohnern.
 
+
+
