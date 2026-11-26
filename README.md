@@ -5,7 +5,7 @@ Besteht ein Zusammenhang zwischen dem wirtschaftlichen Wohlstand eines Landes un
 ## Team:
 
 Am Projekt arbeiten
-- Larissa Röthlisberg (roethlar@students.zhaw.ch)
+- Larissa Röthlisberger (roethlar@students.zhaw.ch)
 - Jennica Frances Cortez (cortejen@students.zhaw.ch)
 - Yasmin Keller (kelleya1@students.zhaw.ch)
 - Vinny Morkkalil (morkkvin@students.zhaw.ch)
@@ -28,4 +28,6 @@ Vergleichsebene: Länder, für ein bestimmtes Jahr (Querschnitt) oder über mehr
 *Hypothese*
 
 Je höher das BIP pro Kopf, desto höher ist im Durchschnitt der CO₂-Ausstoss pro Kopf. Einzelne Länder weichen davon ab, etwa durch einen hohen Anteil erneuerbarer oder nuklearer Energie, eine dienstleistungsorientierte Wirtschaft oder eine erdölbasierte Wirtschaft mit wenig Einwohnern.
+
+
 
