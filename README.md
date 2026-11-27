@@ -31,3 +31,4 @@ Je höher das BIP pro Kopf, desto höher ist im Durchschnitt der CO₂-Ausstoss 
 
 
 
+yasmin
